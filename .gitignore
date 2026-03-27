@@ -1,0 +1,7 @@
+.credentials
+.repo-config
+.jira-projects
+.DS_Store
+results/
+*.raw
+*.usage
